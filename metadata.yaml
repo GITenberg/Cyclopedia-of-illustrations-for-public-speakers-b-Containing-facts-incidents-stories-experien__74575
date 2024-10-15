@@ -1,0 +1,38 @@
+_repo: Cyclopedia-of-illustrations-for-public-speakers-b-Containing-facts-incidents-stories-experien__74575
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Scott, Robert Falcon
+    alias: Scott, R. F. (Robert Falcon)
+    birthdate: 1868
+    deathdate: 1912
+    gutenberg_agent_id: '4033'
+    url: http://www.gutenberg.org/2009/agents/4033
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Falcon_Scott
+  - agent_name: Stiles, William C.
+    gutenberg_agent_id: '57563'
+    url: http://www.gutenberg.org/2009/agents/57563
+description: ''
+gutenberg_issued: '2024-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74575'
+language: en
+pgterms:marc904: https://archive.org/details/cyclopediaofillu00scotrich/page/n5/mode/2up
+pgterms:marc905: 20240626175953scott
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Greg Bergquist, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York, NY :$bFunk and Wagnalls Company, $c1910, pubdate
+  1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Cyclopedia of illustrations for public speakers : $b Containing facts, incidents,
+  stories, experiences, anecdotes, selections, etc., for illustrative purposes, with
+  cross-references'
+url: http://www.gutenberg.org/ebooks/74575
